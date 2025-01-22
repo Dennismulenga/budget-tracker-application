@@ -1,0 +1,301 @@
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\BudgetTracker.Form1.resources
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Denni\Documents\DudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\Denni\Documents\DudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\Denni\Documents\DudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\Denni\Documents\DudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.Form1.resources
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Form1.resources
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Documents\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Form1.resources
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\clone\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.chart.resources
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.charts.resources
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\loadingpage.load.resources
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.main.resources
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Database.mdf
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Database_log.ldf
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.dll
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.xml
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+C:\Users\DELL MACHINE\Desktop\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.create.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Database.mdf
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Database_log.ldf
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.charts.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.create.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.main.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\loadingpage.load.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\MySql.Data.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Buffers.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Memory.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\ZstdSharp.dll
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.pdb
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\MySql.Data.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Buffers.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Memory.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.application
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\App\csc-3301-budgetadd\csc-3301-budgetadd\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.application
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Database.mdf
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Database_log.ldf
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe.manifest
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.application
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\MySql.Data.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Buffers.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Memory.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\ZstdSharp.dll
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\MySql.Data.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Buffers.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Memory.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.charts.resources
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.create.resources
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.main.resources
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\loadingpage.load.resources
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe.manifest
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.application
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\DELL MACHINE\Desktop\BudgetTracker\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Database.mdf
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Database_log.ldf
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.application
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\EntityFramework.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\MySql.Data.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Buffers.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Memory.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\ZstdSharp.dll
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\EntityFramework.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.pdb
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\MySql.Data.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Buffers.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Memory.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.charts.resources
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.create.resources
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.main.resources
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\loadingpage.load.resources
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.application
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Database.mdf
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Database_log.ldf
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe.config
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.application
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\DudgetTracker.pdb
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\EntityFramework.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\MySql.Data.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Buffers.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Memory.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\ZstdSharp.dll
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\EntityFramework.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.pdb
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Google.Protobuf.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\MySql.Data.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Buffers.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Memory.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.charts.resources
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.create.resources
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.main.resources
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\loadingpage.load.resources
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.Properties.Resources.resources
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.exe.manifest
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.application
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.exe
+C:\Users\Denni\OneDrive\Desktop\3rd year stuff\App\p\p\BudgetTracker\obj\Debug\DudgetTracker.pdb
